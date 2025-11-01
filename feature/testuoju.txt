@@ -1,1 +1,2 @@
 testuoju
+testtuoju dar karta per visualstudio
