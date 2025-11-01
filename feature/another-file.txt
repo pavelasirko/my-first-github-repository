@@ -2,3 +2,4 @@ replaced in feature-2 branch
 this file was modified loc
 
 this line added in feature-2 branch
+anothe modification after feature-2 branch was created locally and remotely
