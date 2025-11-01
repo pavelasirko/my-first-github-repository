@@ -1,4 +1,4 @@
 # my-first-github-repository
 
 hello
-this modified locally
+this line modified during conflic resolution
